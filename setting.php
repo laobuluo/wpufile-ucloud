@@ -56,8 +56,8 @@
     <div class="laobuluo-wbs-header" style="margin-bottom: 15px;">
         <div class="laobuluo-wbs-logo"><span class="wbs-span">UCloud对象存储插件</span><span class="wbs-free">Free V3.0</span></div>
         <div class="laobuluo-wbs-btn">
-            <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/1101.html" target="_blank"><i class="layui-icon layui-icon-home"></i> 插件主页</a>
-            <a class="layui-btn layui-btn-primary" href="https://www.lezaiyun.com/contact/" target="_blank"><i class="layui-icon layui-icon-release"></i> 技术支持</a>
+            <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/7195.html" target="_blank"><i class="layui-icon layui-icon-home"></i> 插件主页</a>
+            <a class="layui-btn layui-btn-primary" href="https://www.laojiang.me/contact/" target="_blank"><i class="layui-icon layui-icon-release"></i> 技术支持</a>
         </div>
     </div>
 </div>
@@ -192,7 +192,7 @@
 					 <span class="codeshow"></span>
 				</div>
                 <div class="laobuluo-links">
-                    <a href="https://www.lezaiyun.com/"  target="_blank">乐在云工作室</a>
+                    <a href="https://www.laojiang.me/"  target="_blank">老蒋玩开发</a>
                     <a href="https://www.zhujipingjia.com/pianyivps.html" target="_blank">便宜VPS推荐</a>
                     <a href="https://www.zhujipingjia.com/hkcn2.html" target="_blank">香港VPS推荐</a>
                     <a href="hhttps://www.zhujipingjia.com/uscn2gia.html" target="_blank">美国VPS推荐</a>

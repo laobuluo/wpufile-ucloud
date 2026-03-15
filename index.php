@@ -1,11 +1,11 @@
 <?php
 /**
 Plugin Name: 优刻得UCloud对象存储插件
-Plugin URI: https://www.lezaiyun.com/1101.html
+Plugin URI: https://www.laojiang.me/contact/
 Description: WordPress同步附件内容远程至UCloud对象存储中，实现网站数据与静态资源分离，提高网站加载速度。公众号：老蒋朋友圈。
 Version: 3.0
 Author: 老蒋和他的小伙伴
-Author URI: https://www.lezaiyun.com
+Author URI: https://www.laojiang.me
 Requires PHP: 7.4
  */
 if (!defined('ABSPATH')) die();

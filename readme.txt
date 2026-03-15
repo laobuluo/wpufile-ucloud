@@ -1,7 +1,7 @@
 === 优刻得UCloud对象存储插件 ===
 
 Contributors: laobuluo
-Donate link: https://www.lezaiyun.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags:WordPress对象存储,WordPress加速,WordPress UCloud对象存储, Ufile
 Requires at least: 5.3
 Tested up to: 6.9.1
@@ -19,13 +19,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 * 1、下载和激活【WPUFile】插件后，配置UCLOUD对象存储参数。
 * 2、可以选择只存储到UCLOUD对象存储空间、也可以本地网站也同时备份。
 * 3、选择UCLOUD对象存储可以是免费域名，也可以自定义域名。
-* 4、WPUFile插件更多详细介绍和安装：<a href="https://www.lezaiyun.com/1101.html" target="_blank" >https://www.lezaiyun.com/1101.html</a>
+* 4、WPUFile插件更多详细介绍和安装：<a href="https://www.laojiang.me/contact/" target="_blank" >https://www.laojiang.me/contact/</a>
 
 ## 网站支持
 
-* [老蒋玩运营](https://www.laojiang.me/ "老蒋玩运营")
+* [主机评价网](https://www.zhujipingjia.com/ "主机评价网")
 
-* [乐在云工作室](https://www.lezaiyun.com/ "乐在云工作室")
+* [乐在云](https://www.lezaiyun.com/ "乐在云")
 
 * 欢迎加入插件和站长微信公众号：老蒋朋友圈（公众号）
 
